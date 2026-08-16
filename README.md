@@ -2,8 +2,7 @@
 
 An institutional-grade financial risk analytics engine for portfolio simulation and macro stress testing.
 
-🚀 **Live App:** [riskvortex.streamlit.app](https://riskvortex.streamlit.app)
-
+🚀 **Live App:** https://riskvortex.streamlit.app/
 ---
 
 ## 🔑 Core Features
